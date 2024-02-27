@@ -51,4 +51,19 @@ Start the development server.
 python manage.py runserver
 ```
 
+<br>
+<div style="flex">
+  <img  src="templates/Screenshot 2024-02-27 190436.png" >
+  <br>
+  <img  src="templates/Screenshot 2024-02-27 190508.png">
+  <br>
+  <img  src="templates/Screenshot 2024-02-27 190528.png">
+  <br>
+  <img  src="templates/Screenshot 2024-02-27 190547.png">
+  <br>
+  <img  src="templates/Screenshot 2024-02-27 190645.png">
+  <br>
+ 
+  
+</div>
 
