@@ -1,5 +1,5 @@
 
-# Toeman Shoes Ecommerce⭐💫
+# Toeman Shoes - Ecommerce⭐💫
 
 Toeman Shoes is a dynamic ecommerce website developed to provide a seamless online shopping experience. Built with HTML and Bootstrap for the front end, and powered by Python with the Django framework for the backend, the website ensures a robust and user-friendly interface.
 
