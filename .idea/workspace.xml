@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f0521ab-ff71-42a7-b5b8-225ed8837e7d" name="Changes" comment="dec-3">
-      <change afterPath="$PROJECT_DIR$/media/media/category/DSC_0249.NEF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/media/category/atm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/profile/gokul.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mainproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainproject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/otp.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/otp.html" afterDir="false" />
-    </list>
+    <list default="true" id="4f0521ab-ff71-42a7-b5b8-225ed8837e7d" name="Changes" comment="dec-3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
